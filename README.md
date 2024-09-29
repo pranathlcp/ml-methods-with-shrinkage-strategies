@@ -1,6 +1,6 @@
 # Cricket Match Outcome Prediction
 
-This project investigates the possibility of predicting the winner during the second innings of a cricket match. By applying different machine learning methods and innovative shrinkage strategies, the project aims to provide accurate predictions that could be useful for captains, coaches, and broadcasting teams to enhance strategic decisions during live matches.
+This project investigates the possibility of predicting the winner during the second innings of a cricket match. By applying different machine learning methods and innovative shrinkage strategies, the project aims to provide accurate predictions that could be useful for captains, coaches, and broadcasting teams to enhance strategic decisions during live matches. This repository only contains the code for the web application.
 
 ## Table of Contents
 1. [Motivation](#motivation)
